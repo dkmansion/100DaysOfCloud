@@ -10,20 +10,20 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
 ## Donald's Cloud Journey
 
-I'm a long time IT professional with experience spanning, Telecommunications, Mobile Device Management, and Client Engineering mainly in the Healthcare Industry.  
+I'm a 20+ year IT professional mainly in the Healthcare Industry with experience spanning:
+- Telecommunications management, procurement, and standardization
+- Mobile Device Management, including enterprise mobile management(EMM/MDM), Telecom & Wireless Expense Management(TEM/WEM) and
+- Client Engineering including windows and Mac management and bulk software distribution.  
 
-I started this journey to add cloud engineering knowledge to my toolkit will benefit me and my current or future organizations with modern systems methodologies, cloud deployment strategies and products to serve the businesses.
+I started this journey to add cloud engineering knowledge to my toolkit to benefit myself and my current or future organizations with modern systems methodologies, cloud deployment strategies and products to serve the business.  Currently in an organization with a cloud first strategy for consuming compute resources, gaining appropriate knowledge in cloud services, and capabilities will provide more efficient IT delivery going forward.
 
-My current goal is to transition into solutions engineering and architecture within my organization and at the minimum bring cloud deployment methodologies to the services my existing team provides for the organization.  A stretch goal would be to begin cloud consultancy services as a side-hustle.
+My current goal is to transition into solutions engineering and architecture within my organization and at the minimum bring cloud deployment methodologies to the services my existing team provides for the organization.  A stretch goal would be to begin cloud consultancy services.
 
 - [Twitter DKMansion](https://twitter.com/dkmansion)
-- [LinkedIn](https://www.linkedin.com/in/dkmansion)
+- [LinkedIn DKMansion](https://www.linkedin.com/in/dkmansion)
 
 ## Stepping out the door
 
