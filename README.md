@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Donald's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm a long time IT professional with experience spanning, Telecommunications, Mobile Device Management, and Client Engineering mainly in the Healthcare Industry.  
 
-[✍️ Tell us why you started this challenge]
+I started this journey to add cloud engineering knowledge to my toolkit will benefit me and my current or future organizations with modern systems methodologies, cloud deployment strategies and products to serve the businesses.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+My current goal is to transition into solutions engineering and architecture within my organization and at the minimum bring cloud deployment methodologies to the services my existing team provides for the organization.  A stretch goal would be to begin cloud consultancy services as a side-hustle.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter DKMansion](https://twitter.com/dkmansion)
+- [LinkedIn](https://www.linkedin.com/in/dkmansion)
 
 ## Stepping out the door
 
